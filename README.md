@@ -6,7 +6,9 @@ expected by DirtyPCBs.
 ## Prerequisites
 
 Debian: `apt-get install gerbv pcb zip`
+
 Arch Linux: `pacman -S gerbv pcb zip`
+
 NixOS: `nix-shell ./shell.nix`
 
 ## Usage
