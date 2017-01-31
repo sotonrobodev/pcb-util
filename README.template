@@ -1,0 +1,14 @@
+Contact:
+  Kier Davis <kierdavis@gmail.com>
+
+Files included:
+  <NAME>.gml  Outline
+  <NAME>.gtl  Top (layer 1) copper
+  <NAME>.g1   Layer 2 copper
+  <NAME>.g2   Layer 3 copper
+  <NAME>.gbl  Bottom (layer 4) copper
+  <NAME>.gts  Top solder mask
+  <NAME>.gbs  Bottom solder mask
+  <NAME>.gto  Top silk
+  <NAME>.gbo  Bottom silk
+  <NAME>.txt  Drill information
